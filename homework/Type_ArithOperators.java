@@ -38,5 +38,6 @@ public class Type_ArithOperators
         System.out.println("Div of a and b is:"+(a/b));
         System.out.println("mod div of a and b is:"+(a%b));
 
+
     }
 }

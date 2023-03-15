@@ -1,6 +1,7 @@
 package homework2_loops;
 
-public class Number_10_OddEven_For {
+public class Number_10_OddEven_For
+{
     public static void main(String[] args)
     {
 

@@ -8,5 +8,6 @@ public class Table9 {
             System.out.println(num+ "*" + i + "=" + num *i);
             i++;
         } while(i<=10);
+
     }
 }
